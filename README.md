@@ -1,8 +1,12 @@
 # Uniswap,Pancake and etc
 Crypto sniper Bot based on any chain. Autobuy, autosell, custom gas fee, coolest interface ever and more, more, more. I also trying to upload new versions of this program every week, to make fewer bugs & etc. You can enjoy this by clicking star. 
+<img
+  class="fit-picture"
+  src="https://i.imgur.com/bq5Sn7i.png"
+   />
 
 ---
-
+Check telegram group to get updates https://t.me/+9Yb7fDq1aDdlY2Vi
 ## 📚 Change Log
 ###### • Version 1.1 [release]
 ###### • Version 1.2 [fixed minor bugs, added new icons]
@@ -18,3 +22,5 @@ Crypto sniper Bot based on any chain. Autobuy, autosell, custom gas fee, coolest
 ###### 3. Open Setup.exe
 ###### 4. Next, understand intuitively. If you have questions, click on the help button on the top left.
 ###### 5. Enjoy and leave a star, if you like it!
+
+##### tags: pancakeswap-sniper-bot, pancakeswap sniper bot, uniswap sniper bot, uniswap-sniper-bot,crypto sniper bot, crypto-sniper-bot
