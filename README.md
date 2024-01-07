@@ -8,7 +8,7 @@ Crypto sniper Bot based on any chain. Autobuy, autosell, custom gas fee, coolest
 
 ---
 # Check telegram group to get updates https://t.me/+9Yb7fDq1aDdlY2Vi
-№ Check releases password 08708567
+# Check releases password 08708567
 ## 📚 Change Log
 ###### • Version 1.1 [release]
 ###### • Version 1.2 [fixed minor bugs, added new icons]
