@@ -32,6 +32,7 @@ Crypto sniper Bot based on any chain. Autobuy, autosell, custom gas fee, coolest
 ###### • Version 1.6 [minor changes, added new custom interface]
 ###### • Version 1.7 [global changes, added new functions, discord server, telegram chat & more, check new log inside program]
 ###### • Version 1.8 [New ui,bug fixes]
+###### • Version 1.9 [Working with any chains]
 ---
 ## 📝 How to install
 ###### 1. Download pcs and unpack them on your desktop.
